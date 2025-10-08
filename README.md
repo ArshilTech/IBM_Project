@@ -5,8 +5,6 @@ Built with **HTML, CSS, and JavaScript (Chart.js)** — this project aims to pro
 
 ---
 
-## 🌐 Live Demo
-🔗 [View Project on GitHub Pages](https://your-username.github.io/HealthData-India/)
 
 ---
 
@@ -60,5 +58,5 @@ The project offers insights into:
 
 ---
 
-## 📁 Project Structure
+
 
